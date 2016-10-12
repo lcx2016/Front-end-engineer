@@ -28,7 +28,6 @@ An example Respository
 # 比如我们可以在多行文本框里输入一段代码，来一个C#版本的HelloWorld吧
                 ```c#
                 public class HelloWorld  //C#
-                ```
                 {
                         public static void main(String[] args)
                         {
@@ -42,9 +41,22 @@ An example Respository
                 注意这不是单引号，而是Tab上方，数字1左边的按键（请使用英文输入法）。
                 Thank `You`.  Please Call Me 'Coder' 这里的You是使用` `包围起来的，而‘Coder’则是使用单引号包围的。You有高亮显示，而Coder没有。
 
-#
+# 代码显示
+```Java
+public static void Main(String[] args){} //Java
+```
+```C#
+public static void Main(string[] args) //C#
+{
+        int x = 0;
+}
+```
 
+# 文字超链接
+                格式：[要显示的文字]（链接的地址），比如
+                [我的博客](http://www.cnblogs.com/lcxBlog/)
 
-    
-    
+# 鼠标悬停显示 
+                你可以加上一个鼠标悬停显示的文本。在URL之后，用双括号括起来一个字符串，注意使用英文双引号。
+                [我的博客](http://www.cnblogs.com/lcxBlog/ "悬停显示")
     
