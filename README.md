@@ -81,7 +81,7 @@ public static void Main(string[] args) //C#
 
 # 插入图片
 ## 来源于网络的图片
-![](http://www.baidu.com/img/dblogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif) 
 
 
 
