@@ -81,8 +81,9 @@ public static void Main(string[] args) //C#
 
 # 插入图片
 ## 来源于网络的图片
-![baidu](http://www.baidu.com/img/bdlogo.gif) 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
 
-
+[![image]](http://www.github.com/)  
+[image]: http://github.com/github.png "github"  
 
 可以借助GitHub本身就有的一个功能————Gist，写日记用的。
