@@ -27,7 +27,7 @@ An example Respository
 
 # 比如我们可以在多行文本框里输入一段代码，来一个C#版本的HelloWorld吧
                 ```c#
-                public class HelloWorld
+                public class HelloWorld  //C#
                 {
                         public static void main(String[] args)
                         {
@@ -36,8 +36,12 @@ An example Respository
                 }
                 ```
 
+# 部分文字的高亮
+                如果你想使一段话中间部分文字高亮显示，来起到突出强调的作用，那么可以把它用` `包围起来。
+                注意这不是单引号，而是Tab上方，数字1左边的按键（请使用英文输入法）。
+                Thank `You`.  Please Call Me 'Coder' 这里的You是使用` `包围起来的，而‘Coder’则是使用单引号包围的。You有高亮显示，而Coder没有。
 
-
+#
 
 
     
